@@ -1,0 +1,156 @@
+[
+  {
+    "algoritme": "MD5",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 1,
+      "nomPacient": "oINytwGWwhqSKc8E22t86w\u003d\u003d",
+      "nomMetge": "Bernat",
+      "data": "2025-12-03",
+      "diagnostic": "CMsEGeOVgBiIaojFfcl6CA\u003d\u003d"
+    }
+  },
+  {
+    "algoritme": "SHA256",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 1,
+      "nomPacient": "23TJQNRH6HfRGd9hPt0nAMSoTNHPCL63y8MZvPrquXo\u003d",
+      "nomMetge": "Bernat",
+      "data": "2025-12-03",
+      "diagnostic": "9d/GOLkEdE6idLgGau5dvQ3co8s9PgwrYXWYD3lKdDI\u003d"
+    }
+  },
+  {
+    "algoritme": "MD5",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 1,
+      "nomPacient": "oINytwGWwhqSKc8E22t86w\u003d\u003d",
+      "nomMetge": "Bernat",
+      "data": "2025-12-08",
+      "diagnostic": "CMsEGeOVgBiIaojFfcl6CA\u003d\u003d"
+    }
+  },
+  {
+    "algoritme": "SHA256",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 1,
+      "nomPacient": "23TJQNRH6HfRGd9hPt0nAMSoTNHPCL63y8MZvPrquXo\u003d",
+      "nomMetge": "Bernat",
+      "data": "2025-12-08",
+      "diagnostic": "9d/GOLkEdE6idLgGau5dvQ3co8s9PgwrYXWYD3lKdDI\u003d"
+    }
+  },
+  {
+    "algoritme": "AES",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 1,
+      "nomPacient": "XKw7zJ4FJW67gDjfu+n0kw\u003d\u003d",
+      "nomMetge": "Bernat",
+      "data": "2025-12-08",
+      "diagnostic": "hdepJgnvNwv6b2oKQe26IQ\u003d\u003d"
+    }
+  },
+  {
+    "algoritme": "AES",
+    "accio": "DESENC",
+    "visita": {
+      "idVisita": 1,
+      "nomPacient": "Alex",
+      "nomMetge": "Bernat",
+      "data": "2025-12-08",
+      "diagnostic": "Diernia"
+    }
+  },
+  {
+    "algoritme": "MD5",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 2,
+      "nomPacient": "Bsmv0iPvfAY0DI7GydXRzg\u003d\u003d",
+      "nomMetge": "Laia",
+      "data": "2025-12-09",
+      "diagnostic": "byAzcsmhPik+vISk02VzLA\u003d\u003d"
+    }
+  },
+  {
+    "algoritme": "SHA256",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 2,
+      "nomPacient": "wAVnDVuQKguQm6kggQm3G4+y2+KBMfzLFcan2qT0Ruc\u003d",
+      "nomMetge": "Laia",
+      "data": "2025-12-09",
+      "diagnostic": "ZuHAM/yHGb7z+KCTTJ9S+1NO1uQi74mOm/s6LAAlCws\u003d"
+    }
+  },
+  {
+    "algoritme": "AES",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 2,
+      "nomPacient": "s4tyv6dZQdZ/vASBZ/YJWQ\u003d\u003d",
+      "nomMetge": "Laia",
+      "data": "2025-12-09",
+      "diagnostic": "mu3Zq1GdJYA9mOsBKTNJuA\u003d\u003d"
+    }
+  },
+  {
+    "algoritme": "AES",
+    "accio": "DESENC",
+    "visita": {
+      "idVisita": 2,
+      "nomPacient": "Cesc",
+      "nomMetge": "Laia",
+      "data": "2025-12-09",
+      "diagnostic": "Febre"
+    }
+  },
+  {
+    "algoritme": "MD5",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 3,
+      "nomPacient": "wKAkHxZN0K0gzFYhCsoqrg\u003d\u003d",
+      "nomMetge": "Iker",
+      "data": "2025-12-08",
+      "diagnostic": "lKR3tAcyimEO4K6aAFPIfw\u003d\u003d"
+    }
+  },
+  {
+    "algoritme": "SHA256",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 3,
+      "nomPacient": "ZgGkM4PxU0kEffzyzA6YUCCkhS5Ug789qKT6687fnoM\u003d",
+      "nomMetge": "Iker",
+      "data": "2025-12-08",
+      "diagnostic": "z1bCWJzlB1+zMN+OAxr+ixpUETBOQ2Jt8ePnkbQQHZE\u003d"
+    }
+  },
+  {
+    "algoritme": "AES",
+    "accio": "ENC",
+    "visita": {
+      "idVisita": 3,
+      "nomPacient": "eOHglzvTUM1kT7kutPJ/Mg\u003d\u003d",
+      "nomMetge": "Iker",
+      "data": "2025-12-08",
+      "diagnostic": "BBOxrQ3bORWmNKLK5OAdYg\u003d\u003d"
+    }
+  },
+  {
+    "algoritme": "AES",
+    "accio": "DESENC",
+    "visita": {
+      "idVisita": 3,
+      "nomPacient": "Avril",
+      "nomMetge": "Iker",
+      "data": "2025-12-08",
+      "diagnostic": "Varicela"
+    }
+  }
+]
